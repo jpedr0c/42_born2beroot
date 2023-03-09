@@ -5,7 +5,7 @@
 ## 💡 About the project
 > This project requires setting up a Linux operating system from scratch in a virtual machine. The project aims to teach students how to configure an operating system and understand the various steps necessary to make it secure and functional. In addition, you will learn important concepts of IT security, such as user account management, firewall configuration, and system monitoring.
 
-The two files in this repository are:
+The repository contains two files:
 - `monitoring.sh` - a monitoring script that will create a monitoring routine using cron.
 
 - `signature.txt` - the virtual machine's signature, provided to ensure that the save is not lost.
