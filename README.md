@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://github.com/jpedr0c/42_born2beroot">
+<img src="./born2beroot.png" height="120" width="120">
+</a>
+</p>
 <h1 align=center>
   <strong> BORN2BEROOT </strong>
 </h1>
